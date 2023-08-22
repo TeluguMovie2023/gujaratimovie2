@@ -713,16 +713,6 @@
 		},
 		{
 			"id": 5,
-			"Video_Id": "-yuSHaSGy1I",
-			"qurekaimg":"",
-			"qurekaimg2":"",
-			"Movie_name": "Tron Ekka",
-			"Movieimg":"https://i.ytimg.com/vi/-yuSHaSGy1I/maxresdefault.jpg",
-            "Description": "",
-            "Language": "Gujarati"
-		},
-		{
-			"id": 6,
 			"Video_Id": "hHyeK3Cu6ag",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -732,7 +722,7 @@
             "Language": "Gujarati"
 		},
 		{
-			"id": 7,
+			"id": 6,
 			"Video_Id": "nPUmI-MV0aQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -742,7 +732,7 @@
             "Language": "Gujarati"
 		},		
 		{
-			"id": 8,
+			"id": 7,
 			"Video_Id": "x2A7qmuaE5s",
 			"qurekaimg":"",
 			"qurekaimg2":"",
